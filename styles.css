@@ -36,10 +36,12 @@
 
 /* Style the image inside the centered container, if needed */
 .myPhoto {
-  width: 190px;
+  width: 200px;
   border-radius: 50%;
 }
 
-.githubLogo {
-
+.logo {
+  width: 32px;
+  height: 32px;
 }
+
