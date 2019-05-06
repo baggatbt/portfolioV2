@@ -48,6 +48,11 @@ body {
 .myPhoto {
   width: 400px;
   border-radius: 50%;
+  border: 2px solid black;
+}
+
+.underPhoto {
+  font-size: 32px;
 }
 
 .logo {
@@ -103,9 +108,9 @@ list-style-type: disc;
 /* CSS FOR PROJECTS SECTION */
 
 .project-image {
+  height: 300px;
   max-height: 400px;
-  max-width: 400px;
-  margin: 20px;
+  width: 80%;
   border: solid black 2px;
 }
 
@@ -117,4 +122,9 @@ list-style-type: disc;
 
 .project-title {
   font-weight: 900;
+}
+
+.project-tip {
+  font-size: 10px;
+  font-weight: 100;
 }
