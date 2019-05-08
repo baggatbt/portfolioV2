@@ -26,6 +26,10 @@ body {
   width:45%;
   left: 0;
   background-color: #00bfff;
+  background: url('https://i.ibb.co/YtbVPfW/modeling-portfolio-background-images-5.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
 }
 
 /* Control the right side */
@@ -44,20 +48,14 @@ body {
   text-align: center;
 }
 
-/* Style the image inside the centered container, if needed */
-.myPhoto {
-  width: 400px;
-  border-radius: 50%;
-  border: 2px solid black;
-}
-
-.underPhoto {
+.tagline {
   font-size: 32px;
 }
 
-.logo {
-  width: 32px;
-  height: 32px;
+.icon {
+  color: #71EEB8;
+  padding: 10px;
+  font-size: 48px;
 }
 
 .content {
@@ -66,7 +64,6 @@ body {
 
 ul {
   display: flex;
-  
   padding: 0px;
   
 }
