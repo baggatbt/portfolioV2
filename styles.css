@@ -107,7 +107,7 @@ list-style-type: disc;
 .project-image {
   height: 300px;
   max-height: 400px;
-  width: 80%;
+  width: 70%;
   border: solid black 2px;
 }
 
@@ -125,3 +125,4 @@ list-style-type: disc;
   font-size: 10px;
   font-weight: 100;
 }
+
