@@ -23,7 +23,7 @@ body {
 
 /* Control the left side */
 .left {
-  width:45%;
+  width:30%;
   left: 0;
   background-color: #00bfff;
   background: url('https://i.ibb.co/YtbVPfW/modeling-portfolio-background-images-5.jpg');
@@ -34,7 +34,7 @@ body {
 
 /* Control the right side */
 .right {
-  width: 55%;
+  width: 70%;
   right: 0;
   background-color: #fafafa;
 }
